@@ -1,6 +1,8 @@
 #### O projeto realiza análises exploratórias de trajetórias longitudinais, comparando Modelos de Efeitos Mistos e abordagens baseadas em grupos latentes. Destacam-se os Modelos de Mistura de Crescimento (GMM) e a Análise de Crescimento com Classes Latentes (LCGA), aplicados a dados de mortalidade infantil em cidades brasileiras (2005–2012) disponibilizados por Russo (2019). Disponível em: [openICPSR](https://www.openicpsr.org/openicpsr/project/108527/version/V1/view;jsessionid=81B73ADAB523CB4E00C486CA530208E6?path=/openicpsr/108527/fcr:versions/V1/Data_Final.dta&type=file).
 
-
+<p align="center">
+  <img src="Data/Fig3.png" width="600">
+</p>
 
 
 
