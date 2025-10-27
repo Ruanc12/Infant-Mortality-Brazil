@@ -36,7 +36,7 @@ $$
   <sub>Figura 1: Mapa com marcação dos municípios selecionados para a análise dos dados de mortalidade infantil. </sub>
 </div>
 
-[**CLIQUE AQUI PARA VER O MAPA INTERATIVO**](https://ruanc12.github.io/Infant-Mortality-Brazil/mapa_municipios.html)
+A versão interativa do mapa pode ser acessada clicando [**aqui**](https://ruanc12.github.io/Infant-Mortality-Brazil/mapa_municipios.html).
 
 #### Referências
 
