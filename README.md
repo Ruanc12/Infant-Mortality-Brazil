@@ -31,17 +31,12 @@ $$
 ##### O filtro utilizado foi de DMRO < 20% no primeiro triênio. Além dos indicadores já citados, também foram excluídos municípios com mortalidade infantil igual a 0. Os dados necessários para o cálculo do **DMRO** e **CGMP** foram retirados da plataforma [DATASUS](https://datasus.saude.gov.br/mortalidade-desde-1996-pela-cid-10). Unindo os filtros, obtemos um total de 1362 municípios. No mapa abaixo, estão as marcações de cada município selecionado.
 
 
-
-
-
-
-
-
-
 <div align="center">
   <img src="municipios_selecionados.png" width="350"><br>
   <sub>Figura 1: Mapa com marcação dos municípios selecionados para a análise dos dados de mortalidade infantil. </sub>
 </div>
+
+[**CLIQUE AQUI PARA VER O MAPA INTERATIVO**](https://ruanc12.github.io/Infant-Mortality-Brazil/mapa_municipios.html)
 
 #### Referências
 
