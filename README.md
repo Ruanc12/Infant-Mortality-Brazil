@@ -39,7 +39,7 @@ $$
 
 
 <div align="center">
-  <img src="municipios_selecionados.png" width="700"><br>
+  <img src="municipios_selecionados.png" width="350"><br>
   <sub>Figura 1: Mapa com marcação dos municípios selecionados para a análise dos dados de mortalidade infantil. </sub>
 </div>
 
