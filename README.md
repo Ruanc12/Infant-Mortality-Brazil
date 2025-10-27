@@ -28,7 +28,7 @@ $$
 - $O_t$: número de óbitos no ano $t$.
 - $M$: média do número de óbitos do triênio.
 
-##### O filtro utilizado foi de DMRO < 20% no primeiro triênio. Além dos indicadores já citados, também foram excluídos municípios com mortalidade infantil igual a 0. Os dados necessários para o cálculo do **DMRO** e **CGMP** foram retirados da plataforma [DATASUS](https://datasus.saude.gov.br/mortalidade-desde-1996-pela-cid-10). Unindo os filtros, obtemos um total de 1362 municípios.
+##### O filtro utilizado foi de DMRO < 20% no primeiro triênio. Além dos indicadores já citados, também foram excluídos municípios com mortalidade infantil igual a 0. Os dados necessários para o cálculo do **DMRO** e **CGMP** foram retirados da plataforma [DATASUS](https://datasus.saude.gov.br/mortalidade-desde-1996-pela-cid-10). Unindo os filtros, obtemos um total de 1362 municípios. No mapa abaixo, estão as marcações de cada município selecionado.
 
 
 
@@ -39,8 +39,8 @@ $$
 
 
 <div align="center">
-  <img src="Data/Fig3.png" width="700"><br>
-  <sub>Figura 1: Trajetórias de crescimento de classes latentes. À esquerda estão todas as trajetórias ajustadas com um Modelo de Efeitos Mistos, e à direita o ajuste considerando quatro classes latentes usando metodologias LCGA/GMM. </sub>
+  <img src="municipios_selecionados.png" width="700"><br>
+  <sub>Figura 1: Mapa com marcação dos municípios selecionados para a análise dos dados de mortalidade infantil. </sub>
 </div>
 
 #### Referências
