@@ -38,6 +38,16 @@ $$
 
 A versão interativa do mapa pode ser acessada clicando [**aqui**](https://ruanc12.github.io/Infant-Mortality-Brazil/mapa_municipios.html).
 
+
+Além disso, os municípios foram classificados utilizando a população residente no ano de 2005, as distribuições de todos os municípios e dos municípios selecionados podem ser visualizados na figura abaixo.
+
+<div align="center">
+  <img src="dist_pop.png" width="350">
+  <img src="dist_filtrados.png" width="350">
+  <br>
+  <sub>Figura 2: Distribuição das populações dos municípios no ano de 2005.</sub>
+</div>
+
 #### Referências
 
 Aquino R, de Oliveira NF, Barreto ML. Impact of the family health program on infant mortality in Brazilian municipalities. Am J Public Health. 2009 Jan;99(1):87-93. doi: 10.2105/AJPH.2007.127480. Epub 2008 Nov 13. PMID: 19008516; PMCID: PMC2636620.
