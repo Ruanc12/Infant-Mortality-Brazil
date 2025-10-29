@@ -36,10 +36,7 @@ $$
   <sub>Figura 1: Mapa com marcação dos municípios selecionados para a análise dos dados de mortalidade infantil. </sub>
 </div>
 
-A versão interativa do mapa pode ser acessada clicando [**aqui**](https://ruanc12.github.io/Infant-Mortality-Brazil/mapa_municipios.html).
-
-
-Além disso, os municípios foram classificados utilizando a população residente no ano de 2005, as distribuições de todos os municípios e dos municípios selecionados podem ser visualizados na figura abaixo.
+A versão interativa do mapa pode ser acessada clicando [**aqui**](https://ruanc12.github.io/Infant-Mortality-Brazil/mapa_municipios.html). Além disso, os municípios foram classificados utilizando a população residente no ano de 2005, as distribuições de todos os municípios e dos municípios selecionados podem ser visualizados na figura abaixo.
 
 <div align="center">
   <img src="dist_pop.png" width="350">
@@ -47,6 +44,50 @@ Além disso, os municípios foram classificados utilizando a população residen
   <br>
   <sub>Figura 2: Distribuição das populações dos municípios no ano de 2005.</sub>
 </div>
+
+<h3 align="center">Distribuição de Municípios por Faixa Populacional</h3>
+
+<table align="center" border="1" cellspacing="0" cellpadding="5" style="text-align:center;">
+  <tr>
+    <th>Faixa Populacional</th>
+    <th>Distribuição Geral</th>
+    <th>Amostra Selecionada</th>
+  </tr>
+  <tr>
+    <td>&lt; 10 mil</td>
+    <td>2672</td>
+    <td>186</td>
+  </tr>
+  <tr>
+    <td>10 a 50 mil</td>
+    <td>2323</td>
+    <td>896</td>
+  </tr>
+  <tr>
+    <td>50 a 100 mil</td>
+    <td>313</td>
+    <td>222</td>
+  </tr>
+  <tr>
+    <td>100 a 500 mil</td>
+    <td>220</td>
+    <td>195</td>
+  </tr>
+  <tr>
+    <td>500 mil a 1 milhão</td>
+    <td>21</td>
+    <td>21</td>
+  </tr>
+  <tr>
+    <td>&gt; 1 milhão</td>
+    <td>14</td>
+    <td>15</td>
+  </tr>
+</table>
+
+
+
+
 
 #### Referências
 
